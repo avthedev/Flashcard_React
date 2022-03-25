@@ -10,9 +10,8 @@ This was created as part of my project for the Thinkful Software Engineering cou
 
 Built with
 
-- Javascript
-- HTML
-- CSS
+- JavaScript
+- HTML/CSS
 - React/React Hooks
 - React Router
 - Bootstrap
