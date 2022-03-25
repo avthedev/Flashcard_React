@@ -6,14 +6,6 @@ This project was made for users studying to be able to create a deck of flashcar
 
 This was created as part of my project for the Thinkful Software Engineering course. This project helped me a lot in learning and practicing React and React hooks. I hope to one day come back to this project and add styling to it.
 
-## Screenshots
-
-![](./ss/screen-shot-1.png)
-![](./ss/screen-shot-2.png)
-![](./ss/screen-shot-3.png)
-![](./ss/screen-shot-4.png)
-![](./ss/screen-shot-5.png)
-
 ## Technology
 
 Built with
@@ -43,6 +35,14 @@ Built with
 - A React application running on http://localhost:3000
 
 If you have trouble getting the server to run, feel free to reach out to me!
+
+## Screenshots
+
+![](./ss/screen-shot-1.png)
+![](./ss/screen-shot-2.png)
+![](./ss/screen-shot-3.png)
+![](./ss/screen-shot-4.png)
+![](./ss/screen-shot-5.png)
 
 ## Contributing
 
